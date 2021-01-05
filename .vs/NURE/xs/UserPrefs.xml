@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FA0DBEC6-2B53-482F-A0B4-B8B3594410ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.NURE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NURE/Matrix.cs">
+    <Files>
+      <File FileName="NURE/Program.cs" Line="9" Column="47" />
+      <File FileName="NURE/Matrix.cs" Line="6" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NURE" expanded="True">
+            <Node name="NURE" expanded="True">
+              <Node name="Matrix.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

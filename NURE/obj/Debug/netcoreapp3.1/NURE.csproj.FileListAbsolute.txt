@@ -1,0 +1,12 @@
+/Users/kson/Projects/NURE/NURE/bin/Debug/netcoreapp3.1/NURE.deps.json
+/Users/kson/Projects/NURE/NURE/bin/Debug/netcoreapp3.1/NURE.runtimeconfig.json
+/Users/kson/Projects/NURE/NURE/bin/Debug/netcoreapp3.1/NURE.runtimeconfig.dev.json
+/Users/kson/Projects/NURE/NURE/bin/Debug/netcoreapp3.1/NURE.dll
+/Users/kson/Projects/NURE/NURE/bin/Debug/netcoreapp3.1/NURE.pdb
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.csprojAssemblyReference.cache
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.AssemblyInfoInputs.cache
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.AssemblyInfo.cs
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.csproj.CoreCompileInputs.cache
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.dll
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.pdb
+/Users/kson/Projects/NURE/NURE/obj/Debug/netcoreapp3.1/NURE.genruntimeconfig.cache
