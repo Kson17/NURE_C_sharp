@@ -7,24 +7,17 @@ namespace NURE
         public int n;
         public int[,] mass;
 
-
         public Matrix()
         {
             // хардкод для создания 2х2 матрицы
             this.n = 2;
-            mass = new int[2, 2];
+            mass = new int[0, 0];
         }
 
         public int this[int i, int j]
         {
-            get
-            {
-                return mass[i, j];
-            }
-            set
-            {
-                mass[i, j] = value;
-            }
+            get { return mass[i, j]; }
+            set { mass[i, j] = value; }
         }
 
 
@@ -91,16 +84,24 @@ namespace NURE
                     result[i, j] = a[i, j] + b[i, j];
                 }
             }
+
             return result;
         }
 
-        // Сравнение матриц
+        // Сравнение матриц (сравнение массивов)
         public static bool Equals(Matrix a, Matrix b)
         {
             for (int i = 0; i < a.n; i++)
+            {
                 for (int j = 0; j < b.n; j++)
+                {
                     if (a.mass[i, j] != b[i, j])
+                    {
                         return false;
+                    }
+                }
+            }
+
             return true;
         }
 
